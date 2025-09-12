@@ -1,7 +1,7 @@
 from telebot import *
 import requests
 
-sii_3 = telebot.TeleBot("6343519409:AAGuAOFJqCc3oWK9QoTgp-DcjMrwXW5ALCE")
+sii_3 = telebot.TeleBot("6343519409:AAHvxh3E76i_bfK0reMhZLkMqR_mm1NP5go")
 darkai_state = {}
 
 DEVELOPER_USERNAME = "@X_HXB"
